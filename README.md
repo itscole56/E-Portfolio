@@ -1,0 +1,71 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Cole Seramur</title>
+<style>
+body { font-family: Georgia, serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.7; color: #222; }
+h1 { font-size: 2rem; margin-bottom: 0; }
+h2 { font-size: 1.2rem; border-bottom: 1px solid #ccc; padding-bottom: 4px; margin-top: 2rem; }
+p, li { font-size: 1rem; }
+ul { padding-left: 1.2rem; }
+.meta { color: #666; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+
+<h1>Cole William Seramur</h1>
+<p class="meta">Valparaiso, IN · (219) 508-5349 · cseramur@purdue.edu · linkedin.com/in/cole-seramur</p>
+
+<h2>About</h2>
+<p>Purdue University student pursuing a B.S. in General Management at the Daniels School of Business. Hands-on experience in property management, team leadership, and event planning. Committed to ethical, outcome-focused business practice.</p>
+
+<h2>Education</h2>
+<p><strong>Purdue University, Daniels School of Business</strong><br>
+B.S. General Management — August 2024 to May 2028<br>
+Relevant coursework: Data/AI Tools for Business, Foundations of Accounting, Business Ethics</p>
+
+<p><strong>Study Abroad — Prague, Czech Republic</strong><br>
+Business Law & Ethics, Summer 2025<br>
+4-week program exploring Central European markets and international business practices.</p>
+
+<h2>Experience</h2>
+<p><strong>Vice President of Fraternal Affairs — Delta Sigma Pi</strong><br>
+<span class="meta">West Lafayette, IN · March 2025 – Present</span></p>
+<ul>
+  <li>Organized events for the 95-member chapter promoting brotherhood and inclusivity</li>
+  <li>Planned the chapter's annual Formal Rose Dance with a $4,000 budget</li>
+  <li>Provided open communication to advocate for member interests and wellbeing</li>
+</ul>
+
+<p><strong>Project & Property Manager — Seramur Properties</strong><br>
+<span class="meta">Valparaiso, IN · May 2022 – 2025</span></p>
+<ul>
+  <li>Renovated and restored properties generating over $80,000 in total profit</li>
+  <li>Managed professional contractors ensuring compliance with residential codes</li>
+  <li>Directed a team of four employees, tracking hours and documenting progress</li>
+  <li>Made renovation decisions balancing time, resources, and budget constraints</li>
+</ul>
+
+<p><strong>Founding Member — Daniels School of Business Working Wellness Committee</strong><br>
+<span class="meta">West Lafayette, IN · August 2025 – Present</span></p>
+<ul>
+  <li>Collaborates with Purdue staff to coordinate events for business students</li>
+  <li>Provides ethical and professional insights to the school's official content</li>
+</ul>
+
+<h2>Skills</h2>
+<p><strong>Soft Skills:</strong> Communication, Organization, Teamwork, Adaptability, Confidence, Leadership</p>
+<p><strong>Hard Skills:</strong> Property Management, Excel, Public Speaking, Budget Management, Contractor Management</p>
+<p><strong>Trades:</strong> Electrical, Plumbing, Painting, Construction, Renovation</p>
+
+<h2>Honors</h2>
+<ul>
+  <li>Dean's List 2024–2025</li>
+  <li>Handel Scholarship Recipient</li>
+  <li>Valparaiso High School Varsity Tennis</li>
+</ul>
+
+</body>
+</html>
+le-seramur-portfolio-simple.html…]()
